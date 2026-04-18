@@ -20,6 +20,7 @@ Tools > Board > Boards Manager
 
 ## Library Version
 
+- Adafruit Neo Pixel 1.15.4
 
 # Flash Setting
 - Tools > Board > SparkFun AVR Boards > SparkFun Pro Micro
